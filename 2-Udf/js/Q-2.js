@@ -6,7 +6,7 @@ function Circle(radius) {
     area = pie * radius * radius;
     return area;
 }
-let radius = 5;
+let radius = 8;
 let area = Circle(radius);
 document.getElementById("radius").innerHTML = radius;
 document.getElementById("cricle").innerHTML = area;

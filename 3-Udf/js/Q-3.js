@@ -5,8 +5,8 @@ triangle = (l, b) => {
     return area;
 }
 
-let l = 7;
-let b = 70;
+let l = 18;
+let b = 50;
 
 let area = triangle(l , b);
 

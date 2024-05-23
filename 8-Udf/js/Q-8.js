@@ -5,7 +5,7 @@ convert = (fah) => {
     return f;
 }
 
-let fah = 100;
+let fah = 30;
 let CE = convert(fah);
 document.querySelector("h2").innerHTML = CE;
 

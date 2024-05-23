@@ -7,8 +7,8 @@ const swap = (a, b) => {
     document.getElementById("b").innerHTML = b;
 }
 
-let a = 1;
-let b = 10;
+let a = 12;
+let b = 8;
 document.getElementById("a ans").innerHTML = a;
 document.getElementById("b ans").innerHTML = b;
 let num  = swap(a, b);

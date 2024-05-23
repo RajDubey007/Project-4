@@ -11,7 +11,7 @@ let ode = (number) => {
 
 }
 
-let number = 8;
+let number = 18;
 document.querySelector("h2").innerHTML = number;
 
 let Num = ode(number);

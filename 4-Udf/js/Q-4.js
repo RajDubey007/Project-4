@@ -5,8 +5,8 @@ rectangle = (l, h) => {
     return area;
 }
 
-let l = 5;
-let h = 10;
+let l = 12;
+let h = 18;
 
 let area = rectangle(l, h);
 
